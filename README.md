@@ -1,5 +1,5 @@
 # CSS basic cheat sheet
-> A program that generates random message about what who had what
+> A basic and simple css cheat sheet
 ## Table of content
 * [General](##general)
 * [Used technologies](#used-technologies)
